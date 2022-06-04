@@ -13,10 +13,15 @@
 git clone https://github.com/rafeldev/backend_meli
 ```
 
-2. **Install dependencies**: 
+2. **Move to project**: 
+```
+cd backend_meli
+```
+
+3. **Install dependencies**: 
 ```
 npm install
-```
+````
 
 3. **execute program (this program start in port 3001)**: 
 ```
