@@ -30,4 +30,4 @@ nodemon dist
 
 ## Help us to share
 
-- Invite a beer 🍺 or coffee ☕ to someone on the team.
+- Invite a beer 🍺 or coffee ☕
